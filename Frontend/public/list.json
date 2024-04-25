@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040286.jpg?t=st=1714052247~exp=1714055847~hmac=b2c9f155fef4b2827838b6b03146b9c6f9645dd694dd65a426cb4def2dad3f25&w=1380"
+    },
+    {
+        "id": 2,
+        "name": "Com Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 20,
+        "category": "Entertainn",
+        "image":"https://img.freepik.com/free-vector/flat-world-book-day-vertical-poster-template_52683-82430.jpg?t=st=1714052546~exp=1714056146~hmac=e4bcde002ca494ea123875d86dc029ce33ff8a4406b2c197e6c4dc9457e08775&w=1380"
+    },
+    {
+        "id": 3,
+        "name": "Music Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 100,
+        "category": "Music",
+        "image":"https://img.freepik.com/free-photo/beautifully-illustrate-musical-instrument_23-2151103366.jpg?t=st=1714052592~exp=1714056192~hmac=23d8d28a9b87ae25a0c4492346cc50fa48665e2e07a4f47fb88a28f8d25e528e&w=1380"
+    },
+    {
+        "id": 4,
+        "name": "Sports Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 50,
+        "category": "Sports",
+        "image":"https://img.freepik.com/free-vector/sport-home-flyer-v_23-2148720423.jpg?t=st=1714052644~exp=1714056244~hmac=663bfe1377c17bc40087cd4a049c6bc48e9e9a7ebdc06f1037203981fb6012db&w=1380"
+    },
+    {
+        "id": 5,
+        "name": "Food Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 200,
+        "category": "Food",
+        "image":"https://img.freepik.com/free-psd/healthy-food-poster-template_23-2148520434.jpg?t=st=1714052711~exp=1714056311~hmac=e820d2795ebc0f8d0d08be085a3565295294e6dbbe616732046d6599f5ca97d8&w=1380"
+    },
+    {
+        "id": 6,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-photo/education-day-scene-fantasy-style-aesthetic_23-2151040269.jpg?t=st=1714052363~exp=1714055963~hmac=09fba70ec5a06b2c6e31ddb3f37d37079818345c3c54485d820d5910f41eb2e4&w=1380"
+    },
+    {
+        "id": 7,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-photo/fantasy-style-scene-international-day-education_23-2151040288.jpg?t=st=1714052441~exp=1714056041~hmac=fa89265f116a8db07f62a05de716ad217eb76d5f95cd6df1af62a691d3db09ab&w=1380"
+    },
+    {
+        "id": 8,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-photo/education-day-scene-fantasy-style-aesthetic_23-2151040270.jpg?t=st=1714052826~exp=1714056426~hmac=7706c47a4315377541cab6e1a9213ecee33d27aa936908da06616a718da635dd&w=1380"
+    },
+    {
+        "id": 9,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-photo/education-day-scene-fantasy-style-aesthetic_23-2151040251.jpg?t=st=1714052992~exp=1714056592~hmac=edcda0a9b176962697c300b39e9301c36d61a1f21c20dbb86e443941cbe42b53&w=1380"
+    },
+    {
+        "id": 10,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/premium-photo/book-called-magic-magic-world-is-open-page-that-says-story-fairy-tale_905510-52274.jpg?w=1380"
+    },
+    {
+        "id": 11,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/premium-photo/great-treasure-dungeon-illustration_1031776-53773.jpg?w=1380"
+    },
+    {
+        "id": 12,
+        "name": "RomCom Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-psd/autumn-concept-flyer-template_23-2148641147.jpg?t=st=1714053174~exp=1714056774~hmac=b4505c49448a4229d07a98f0a2daa268c912a605683294f844d14a7921f0c97a&w=1380"
+    }
+]
