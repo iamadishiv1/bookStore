@@ -5,10 +5,13 @@ function Banner() {
     return (
         <>
             <div className='max-w-screen-2xl coontainer mx:auto md:px-20 px-4 flex flex-col md:flex-row my-10'>
-                <div className="w-full md:w-1/2 mt-5 md:mt-16 order-2 md:order-1">
+                <div className="w-full md:w-1/2 ml-0 mt-20 md:ml-10 md:mt-20 order-1">
+                    <img src={banner} className='w-100 h-100 rounded-3xl cursor-pointer' alt="Collections of book image" />
+                </div>
+                <div className="w-full md:w-1/2 mt-5 md:mt-16 md:ml-10 order-2 md:order-1">
                     <div className='space-y-12'>
                         <h1 className='text-4xl font-bold'>
-                            Hello, welcomes here to learning something <span className='text-pink-500'>new everyday!!!</span>
+                            Hello, welcomes here to learning something <span className='text-orange-500'>new everyday!!!</span>
                         </h1>
                         <p className='text-xl'>
                         Explore a world of endless stories and boundless adventures at our bookstore. Discover captivating reads and embark on literary journeys that ignite your imagination. Start your next chapter with us today!
@@ -18,10 +21,7 @@ function Banner() {
                             <input type="text" className="grow" placeholder="Email" />
                         </label>
                     </div>
-                    <button className="btn mt-10 btn-secondary">Send Email</button>
-                </div>
-                <div className="w-full md:w-1/2 ml-0 mt-20 md:ml-20 md:mt-20 order-1">
-                    <img src={banner} className='w-100 h-100 rounded-3xl cursor-pointer' alt="Collections of book image" />
+                    <button className="btn mt-10 btn-primary">Send Email</button>
                 </div>
             </div>
         </>
